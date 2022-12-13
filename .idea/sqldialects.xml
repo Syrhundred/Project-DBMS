@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Triggers/departmentInsert.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Triggers/patientStatus.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/updateStatus.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/create_table.sql" dialect="SQLite" />
   </component>
 </project>

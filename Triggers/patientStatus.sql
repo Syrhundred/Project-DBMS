@@ -1,7 +1,6 @@
 create trigger patientStatusInsert
     after insert on Patient_registration
     begin
-        insert into patientStatus(register_id, status) values (new.register_id, 'sick');
+        insert into patientStatus(patientid, status) values (new.patientid, 'sick');
     end;
 
-a

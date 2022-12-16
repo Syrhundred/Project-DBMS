@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Query/Selection.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/avgPrice.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/avgWeightAndHeight.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/countByBloodGroup.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/countDoctor.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/countGender.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/exists.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/feedbackRating.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/firstNameLike.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/healthyAndSick.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/maxPriceMed.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/patient_countByDiseaseName.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/paymentDesc.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/phoneLike.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/serverPriceMoreThanavgPrice.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Query/subquery.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/appointment_completer1.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/appointment_completer2.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/appointment_completer3.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/appointment_completer4.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/Triggers/box_office.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Triggers/departmentInsert.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Triggers/patientStatus.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/Triggers/updateStatus.sql" dialect="SQLite" />

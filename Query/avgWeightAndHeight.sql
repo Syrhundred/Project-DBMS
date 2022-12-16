@@ -1,0 +1,1 @@
+select avg(Weight), avg(Height) from patient;

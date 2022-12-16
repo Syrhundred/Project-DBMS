@@ -1,0 +1,1 @@
+select doctorId, Name, phone from doctor_details where phone like '8%';
